@@ -4,5 +4,8 @@ public class FirstProgram {
         System.out.println("Hello World");
         System.out.println("hiii");
         syso
+        new code;
+        sssas;
+
     }
 }
